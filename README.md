@@ -1,2 +1,2 @@
-# socialscap.com
+# socialscap.app
 SocialsCap landing page
